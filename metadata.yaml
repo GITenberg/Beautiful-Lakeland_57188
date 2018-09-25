@@ -1,16 +1,21 @@
 _repo: Beautiful-Lakeland_57188
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   photographer:
     agent_name: G. P. Abraham (George Perry)
     gutenberg_agent_id: '49239'
     url: http://www.gutenberg.org/2009/agents/49239
+covers:
+- cover_type: archival
+  image_path: 57188-h/images/cover.jpg
 creator:
   author:
     agent_name: Ashley P. Abraham (Ashley Perry)
     gutenberg_agent_id: '49238'
     url: http://www.gutenberg.org/2009/agents/49238
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57188#Beautiful-Lakeland
 gutenberg_issued: '2018-05-20'
 gutenberg_type: Text
 identifiers:
